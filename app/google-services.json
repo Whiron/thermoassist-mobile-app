@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "195629263121",
+    "firebase_url": "https://thermoassist-5eb0c.firebaseio.com",
+    "project_id": "thermoassist-5eb0c",
+    "storage_bucket": "thermoassist-5eb0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195629263121:android:411c8e25cb56f73e",
+        "android_client_info": {
+          "package_name": "com.example.sarthak.thermoassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195629263121-h1crak2iamhj6u2nef7nir484udccocg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdf4JpDcnvJg_QDjO0lbww7qczTWhw3H8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
